@@ -20,19 +20,20 @@ Engenheiro focado em **Cloud Computing** e **Cultura DevOps**. Especialista em a
 
 ### 📊 Dashboard de Atividade
 
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=henrique-mozart-de-souza&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-mozart-de-souza&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=henrique-mozart-de-souza&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Estatísticas Gerais" height="170px" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-mozart-de-souza&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Linguagens mais usadas" height="170px" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 <div align="center">
   <br />
-  <p><b>(Snake Game)</b></p>
-  <img src="https://raw.githubusercontent.com/henrique-mozart-de-souza/henrique-mozart-de-souza/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/henrique-mozart-de-souza/henrique-mozart-de-souza/output/github-contribution-grid-snake.svg" alt="Snake Game" width="100%" />
 </div>
