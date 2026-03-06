@@ -33,6 +33,6 @@ Engenheiro focado em **Cloud Computing** e **Cultura DevOps**. Especialista em a
 
 <div align="center">
   <br />
-  <p><b>Minhas contribuições (Snake Game)</b></p>
-  <img src="https://raw.githubusercontent.com/henrique-mozart-de-souza/henrique-mozart-de-souza/output/github-contribution-grid-snake.svg" alt="Snake Game" />
+  <p><b>(Snake Game)</b></p>
+  <img src="https://raw.githubusercontent.com/henrique-mozart-de-souza/henrique-mozart-de-souza/output/github-contribution-grid-snake.svg" />
 </div>
